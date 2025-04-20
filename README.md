@@ -8,7 +8,7 @@ Description
 - These data used to analysis the problem either hardware/code level/network issues.
 
 Objective
--keep data that have an issues with blank page
--Extract the data from API monitoring services
--Tranform the data into correct format
--Load data into CSV,Pickle 
+- keep data that have an issues with blank page
+- Extract the data from API monitoring services
+- Tranform the data into correct format
+- Load data into CSV,Pickle 
